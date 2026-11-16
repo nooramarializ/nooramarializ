@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 I'm currently learning the skills necessary to work in data analysis or a related field.
 My skills so far include Excel, Tableau, PowerBI, SQL, and Python.
