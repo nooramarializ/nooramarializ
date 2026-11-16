@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm currently learning the skills necessary to work in data analysis or a related field.
+My skills so far include Excel, Tableau, PowerBI, SQL, and Python.
+I've also studied JavaScript and graphic design.
+I speak English, Finnish, and some Spanish.
+
+
 <!--
 **nooramarializ/nooramarializ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
